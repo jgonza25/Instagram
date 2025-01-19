@@ -1,2 +1,2 @@
 # Instagram
-Code for an instagram clone
+Code for an instagram clone.
